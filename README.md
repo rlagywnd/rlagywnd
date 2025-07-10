@@ -1,4 +1,4 @@
-## Hi there 👋
+![Pixel GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=rlagywnd&theme=fuji&pixelate_avatar=false)
 
 <!--
 **rlagywnd/rlagywnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
