@@ -13,7 +13,7 @@
     <td align="center" width="300" style="border: 1px solid white; padding: 10px;">
       <strong>나태하마</strong><br>
       untell<br>
-      0:34 ━━━━━❚━━━4:33<br>
+      0:34 ━❚━━━━━━━4:33<br>
       ⇆ ◃ ❚❚ ▹ ↻
     </td>
   </tr>
